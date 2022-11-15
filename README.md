@@ -1,1 +1,1 @@
-# cintia-a
+# cintia
